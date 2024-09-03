@@ -1,6 +1,10 @@
-body {
-    size: 7in, 25in;
+body,html {
+    size: 210mm, 297mm;
     margin: 16mm 4mm;
+}
+
+hr {
+    margin: 2px;
 }
 
 h2 {
@@ -17,12 +21,16 @@ a {
     text-decoration: none;
 }
 
-.side{
+.side {
     background-color: #dfdfdf;
 }
 
-.side-bar{
+.side-bar {
     margin-bottom: 2px;
     text-align: left;
 }
 
+.img-thumbnail {
+ border-style: none;
+ background-color: transparent;
+}
