@@ -1,0 +1,28 @@
+body {
+    size: 7in, 25in;
+    margin: 16mm 4mm;
+}
+
+h2 {
+    margin-top: 2px;
+}
+
+p {
+    margin-bottom: 2px;
+    text-align: justify;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.side{
+    background-color: #dfdfdf;
+}
+
+.side-bar{
+    margin-bottom: 2px;
+    text-align: left;
+}
+
